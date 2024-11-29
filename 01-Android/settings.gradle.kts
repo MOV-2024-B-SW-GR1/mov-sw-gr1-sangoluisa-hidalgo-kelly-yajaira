@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "sw2024bgr1_kysh"
 include(":app")
- 

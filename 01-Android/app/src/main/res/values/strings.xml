@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">sw2024bgr1_kysh</string>
+    <!--
+    <string name="saludo">Condicion 2</string>
+    <color name="saludo_color">#0B1756</color>
+    -->
 </resources>

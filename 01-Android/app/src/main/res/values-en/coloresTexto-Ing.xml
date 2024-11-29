@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Condición 1</string>
+    <color name="color_fondo">#F5F0A023</color>
+    <color name="saludo_color">#0A570D</color>
+</resources>
