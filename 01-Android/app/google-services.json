@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398736001246",
+    "project_id": "mov-2024b-sw-gr1-kysh",
+    "storage_bucket": "mov-2024b-sw-gr1-kysh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398736001246:android:7af1582deb62b0aa2e9a4f",
+        "android_client_info": {
+          "package_name": "com.example.sw2024bgr1_kysh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4s5g8cnCFcRGG2vl1jQ5kAtjSkCT7zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
