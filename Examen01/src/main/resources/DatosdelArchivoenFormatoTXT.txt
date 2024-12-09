@@ -1,0 +1,147 @@
+Lista de Actores y sus Películas
+
+Nombre: Jane Smith
+Fecha de Nacimiento: Sun Sep 23 00:00:00 ECT 1990
+Edad: 34 años
+Altura: 1.68 m
+Tiene Doble Acción: No
+Películas:
+  - Título: Mystery Movie 1
+    Estreno: Fri Dec 15 00:00:00 ECT 2006
+    Duración: 105 min
+    Calificación: 7.3
+    Basado en una Historia Real: No
+  - Título: Thriller Movie 2
+    Estreno: Mon Apr 30 00:00:00 ECT 2012
+    Duración: 125 min
+    Calificación: 8.0
+    Basado en una Historia Real: Sí
+  - Título: Fantasy Movie 3
+    Estreno: Sun Jul 22 00:00:00 ECT 2018
+    Duración: 130 min
+    Calificación: 6.9
+    Basado en una Historia Real: No
+  - Título: Horror Movie 4
+    Estreno: Tue Oct 05 00:00:00 ECT 2021
+    Duración: 100 min
+    Calificación: 7.1
+    Basado en una Historia Real: Sí
+  - Título: Documentary Movie 5
+    Estreno: Wed Sep 12 00:00:00 ECT 2007
+    Duración: 90 min
+    Calificación: 6.5
+    Basado en una Historia Real: No
+
+Nombre: Alice Brown
+Fecha de Nacimiento: Sun Dec 05 00:00:00 ECT 1982
+Edad: 42 años
+Altura: 1.6 m
+Tiene Doble Acción: No
+Películas:
+  - Título: Adventure Movie 1
+    Estreno: Wed Jun 18 00:00:00 ECT 2003
+    Duración: 140 min
+    Calificación: 7.8
+    Basado en una Historia Real: No
+  - Título: Historical Movie 2
+    Estreno: Fri Sep 11 00:00:00 ECT 2015
+    Duración: 155 min
+    Calificación: 8.3
+    Basado en una Historia Real: Sí
+  - Título: Animation Movie 3
+    Estreno: Fri Apr 10 00:00:00 ECT 2020
+    Duración: 80 min
+    Calificación: 7.4
+    Basado en una Historia Real: No
+  - Título: Musical Movie 4
+    Estreno: Wed Mar 25 00:00:00 ECT 2009
+    Duración: 120 min
+    Calificación: 6.7
+    Basado en una Historia Real: Sí
+  - Título: Crime Movie 5
+    Estreno: Mon Aug 20 00:00:00 ECT 2012
+    Duración: 130 min
+    Calificación: 7.6
+    Basado en una Historia Real: No
+
+Nombre: Bob Green
+Fecha de Nacimiento: Mon Apr 10 00:00:00 ECT 1989
+Edad: 35 años
+Altura: 1.78 m
+Tiene Doble Acción: No
+Películas:
+  - Título: War Movie 1
+    Estreno: Tue May 22 00:00:00 ECT 2007
+    Duración: 160 min
+    Calificación: 8.1
+    Basado en una Historia Real: Sí
+  - Título: Western Movie 2
+    Estreno: Sat Nov 08 00:00:00 ECT 2014
+    Duración: 140 min
+    Calificación: 7.2
+    Basado en una Historia Real: No
+  - Título: Fantasy Movie 3
+    Estreno: Sat Feb 16 00:00:00 ECT 2019
+    Duración: 130 min
+    Calificación: 7.5
+    Basado en una Historia Real: Sí
+  - Título: Family Movie 4
+    Estreno: Fri Jun 10 00:00:00 ECT 2022
+    Duración: 105 min
+    Calificación: 6.9
+    Basado en una Historia Real: No
+  - Título: Adventure Movie 5
+    Estreno: Fri Aug 19 00:00:00 ECT 2016
+    Duración: 125 min
+    Calificación: 7.4
+    Basado en una Historia Real: Sí
+
+Nombre: Veronica
+Fecha de Nacimiento: Sat Sep 12 00:00:00 ECT 2020
+Edad: 40 años
+Altura: 3.0 m
+Tiene Doble Acción: No
+Películas:
+  - Título: Romantic Comedy Movie 1
+    Estreno: Thu Jul 15 00:00:00 ECT 2004
+    Duración: 105 min
+    Calificación: 6.8
+    Basado en una Historia Real: No
+  - Título: Spy Thriller Movie 2
+    Estreno: Mon Feb 28 00:00:00 ECT 2011
+    Duración: 130 min
+    Calificación: 7.9
+    Basado en una Historia Real: Sí
+  - Título: Drama Movie 3
+    Estreno: Sun Oct 08 00:00:00 ECT 2017
+    Duración: 125 min
+    Calificación: 8.4
+    Basado en una Historia Real: No
+  - Título: Action Movie 4
+    Estreno: Sat May 30 00:00:00 ECT 2020
+    Duración: 140 min
+    Calificación: 7.2
+    Basado en una Historia Real: Sí
+  - Título: Sci-Fi Movie 5
+    Estreno: Mon Nov 10 00:00:00 ECT 2008
+    Duración: 150 min
+    Calificación: 7.6
+    Basado en una Historia Real: No
+
+Nombre: Kelly
+Fecha de Nacimiento: Fri Dec 22 00:00:00 ECT 2000
+Edad: 23 años
+Altura: 1.6 m
+Tiene Doble Acción: No
+Películas:
+  - Título: Pelicula1
+    Estreno: Thu Dec 03 00:00:00 ECT 2020
+    Duración: 23 min
+    Calificación: 2.0
+    Basado en una Historia Real: No
+  - Título: Pelicula2
+    Estreno: Thu Nov 23 00:00:00 ECT 2023
+    Duración: 80 min
+    Calificación: 1.0
+    Basado en una Historia Real: No
+
