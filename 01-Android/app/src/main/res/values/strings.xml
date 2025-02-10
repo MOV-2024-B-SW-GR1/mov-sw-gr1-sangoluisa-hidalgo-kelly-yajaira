@@ -4,4 +4,11 @@
     <string name="saludo">Condicion 2</string>
     <color name="saludo_color">#0B1756</color>
     -->
+    <string name="title_activity_blist_view">BListView</string>
+    <string-array name="string_array_opciones_dialogo">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+    </string-array>
+    <string name="title_activity_ggoogle_maps_placeholder">GGoogleMapsPlaceholder</string>
 </resources>

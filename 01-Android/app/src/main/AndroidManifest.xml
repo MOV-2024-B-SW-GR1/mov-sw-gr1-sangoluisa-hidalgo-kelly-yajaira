@@ -13,6 +13,18 @@
         android:theme="@style/Theme.Sw2024bgr1_kysh"
         tools:targetApi="31">
         <activity
+            android:name=".ECrudEntrenador"
+            android:exported="false" />
+        <activity
+            android:name=".CIntentExplicitoParametros"
+            android:exported="false" />
+        <activity
+            android:name=".BListView"
+            android:exported="false" />
+        <activity
+            android:name=".ACicloVida"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
