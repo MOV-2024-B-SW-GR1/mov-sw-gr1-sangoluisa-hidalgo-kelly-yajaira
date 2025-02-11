@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen-IIB</string>
+    <string name="title_activity_crear_pelicula">CrearPelicula</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_google_maps_inicio">GoogleMapsInicio</string>
+</resources>
